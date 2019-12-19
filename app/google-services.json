@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91268324117",
+    "firebase_url": "https://esp-8266-control-light.firebaseio.com",
+    "project_id": "esp-8266-control-light",
+    "storage_bucket": "esp-8266-control-light.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91268324117:android:873cc9b01bf4c32748e71c",
+        "android_client_info": {
+          "package_name": "com.example.light_remote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91268324117-8pe87ko41r6c8uil5d3lkvfs0og7pao8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.light_remote",
+            "certificate_hash": "58d1745a3a7181155dd7c1375b3cf6996c827f45"
+          }
+        },
+        {
+          "client_id": "91268324117-n1hngjpro1jt5emghev4eaaqp67ecjri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6JuB8lORTMyZcOsxYq5K43tdGJQ_Th8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91268324117-n1hngjpro1jt5emghev4eaaqp67ecjri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

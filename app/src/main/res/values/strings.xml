@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Light Remote Control</string>
+    <string name="your_string_here"><u>This is an underline</u>.</string>
+</resources>
